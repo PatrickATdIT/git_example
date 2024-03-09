@@ -7,11 +7,12 @@ public class Main {
      * <ol>
      *   <li>Hallo Welt schreiben</li>
      *   <li>Einen wunderschönen Tag wünschen</li></ol>
+     * Die Welt muss natürlich gesiezt werden!
      *
      * @param args Kommandozeilenparameter; werden nicht genutzt
      */
     public static void main(String[] args) {
         System.out.println("Hallo, Welt");
-        System.out.println("Hab einen wunderschönen Tag");
+        System.out.println("Haben Sie einen wunderschönen Tag");
     }
 }
