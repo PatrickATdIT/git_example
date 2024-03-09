@@ -6,12 +6,12 @@ public class Main {
      * Die Methode macht folgendes:
      * <ol>
      *   <li>Hallo Welt schreiben</li>
-     *   <li>Einen schönen Tag wünschen</li></ol>
+     *   <li>Einen wunderschönen Tag wünschen</li></ol>
      *
      * @param args Kommandozeilenparameter; werden nicht genutzt
      */
     public static void main(String[] args) {
         System.out.println("Hallo, Welt");
-        System.out.println("Hab einen schönen Tag");
+        System.out.println("Hab einen wunderschönen Tag");
     }
 }
